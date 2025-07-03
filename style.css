@@ -67,3 +67,9 @@ p {
   width: 1%;
   height: 1%;
 }
+
+.project img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
